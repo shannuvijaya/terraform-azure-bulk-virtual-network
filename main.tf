@@ -1,6 +1,6 @@
 terraform {
   required_providers {
-    azurerm = ">= 2.8.0" // For move to address_prefixes
+    azurerm = ">= 2.8.0" // For move to address_pref
   }
 }
 
